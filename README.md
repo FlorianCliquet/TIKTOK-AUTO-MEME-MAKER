@@ -56,6 +56,10 @@ TIKTOK-AUTO-MEME-MAKER/
 
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir des problèmes ou à soumettre des demandes de tirage (pull requests).
 
+## WARNING
+
+Tiktok ayant un problème avec le botting, ils ne permettent pas d'accèder au boutton avec les xpath, il faut donc changer les coordonnées en fonction des dispositions des bouttons de votre compte tiktok , car cela change en fonction du compte.
+
 ## Licence
 
 Ce projet est sous licence MIT - voir le fichier [MIT](LICENSE) pour plus de détails.
@@ -113,6 +117,10 @@ TIKTOK-AUTO-MEME-MAKER/
 - Use Discord commands to add meme URLs and titles.
 - Monitor the Discord channel for notifications about uploaded videos.
 - Check the TikTok account for newly uploaded memes.
+
+## WARNING
+
+Due to TikTok's issue with botting, they do not allow access to the button with XPath. Therefore, you need to adjust the coordinates based on the layout of the buttons on your TikTok account, as it varies depending on the account.
 
 ## Contributing
 
