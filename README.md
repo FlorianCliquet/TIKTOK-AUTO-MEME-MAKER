@@ -10,7 +10,7 @@ Ce projet automatise le processus de création et de téléchargement de memes s
 ## Structure du Dossier
 
 ```
-CREATEUR-AUTOMATIQUE-DE-MEMES-TIKTOK/
+TIKTOK-AUTO-MEME-MAKER/
 │
 ├── BOTDISCORD/
 │ ├── discordbot.py
